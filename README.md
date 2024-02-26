@@ -1,3 +1,13 @@
+## 2/26 - This is my own personal dev theme for learning React. I have modified things in this project that shouldnt be pushed to any client project.
+
+### Updates:
+
+- package.json scripts
+  - use "yarn dev:custom"
+- eslint max line length
+- prettier wrap line length (printWidth)
+
+
 # Tomorrow Agency Shopify 2.0 theme
 
 ## Table of contents
