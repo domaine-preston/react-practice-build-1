@@ -26,6 +26,7 @@
     "dev": "cross-var shopify theme dev --store=$npm_package_config_dev",
     "dev:prod": "cross-var shopify theme dev --store=$npm_package_config_prod",
     "dev:ignore": "cross-var shopify theme dev --store=$npm_package_config_dev --ignore templates/*.json",
+    "dev:custom": "cross-var shopify theme dev --store=$npm_package_config_dev -t 128223674449 --ignore templates/*.json",
     "dev:ignore:prod": "cross-var shopify theme dev --store=$npm_package_config_prod --ignore templates/*.json",
     "dev:sync": "cross-var shopify theme dev --store=$npm_package_config_dev --theme-editor-sync",
     "dev:sync:prod": "cross-var shopify theme dev --store=$npm_package_config_prod --theme-editor-sync",
